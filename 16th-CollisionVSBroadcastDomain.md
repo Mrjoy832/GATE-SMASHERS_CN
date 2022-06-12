@@ -36,4 +36,6 @@ different side suppose when A,C send at same time for **Store and forward** Tech
 ## Router:
 
 ![image](https://user-images.githubusercontent.com/77873383/173213507-275e0287-5750-4eff-9e6b-85301368f2ea.png)
+
+
 Signlas can reach to all devices of sam network but cannt cross the router and reach to other Network so Broadcast also Chnaged
